@@ -1,3 +1,3 @@
 # technopufi
-## meg még mi
+#### meg még mi
 # bárcsak érteném
