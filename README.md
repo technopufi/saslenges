@@ -1,2 +1,3 @@
-# technopufi.github.io
-# meg még mi
+# technopufi
+## meg még mi
+# bárcsak érteném
