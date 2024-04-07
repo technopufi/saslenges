@@ -1,19 +1,30 @@
 <img src="https://www.renyi.hu/%7Etitkos/3c.jpg" alt="TT" width="500">
 
+# Tamás TITKOS
+<br>
 
 
-# Mailing address
+## Contact information
+
+Corvinus University of Budapest, Institute of Mathematics   
+H-1093 Budapest, Fővám tér 13-15.    
+E-mail: tamas.titkos@uni-corvinus.hu      
+Office: Salt House, S229a    
+
+and
 
 Alfréd Rényi Institute of Mathematics  
-H-1053 Budapest, Reáltanoda u. 13-15.  
+H-1053 Budapest, Reáltanoda utca 13-15.  
 E-mail: titkos@renyi.hu  
 Office: III/16  
+<br>
 
 ## Research interests 
 
 - Functional analysis  
 - Optimal transport and Wasserstein spaces  
 - Lipschitz-free spaces  
+<br>
 
 ## Awards, Scholarships
 
@@ -22,11 +33,13 @@ Office: III/16
 - Bolyai+ Scholarship - New National Excellence Programme (2018,2019,2020)  
 - Youth Award of the Hungarian Academy of Sciences (2018)  
 - NRDI Postdoctoral Fellowship (2018)  
+<br>
 
 ## Editorial work
 
 - Editor of Periodica Mathematica Hungarica  
 - Editor of Érintő (Electronic Journal of the János Bolyai Mathematical Society)  
+<br>
 
 ## Selected Papers
 
@@ -36,7 +49,7 @@ Office: III/16
 
 2. Quantum Wasserstein isometries on the qubit state space  
    Journal of Mathematical Analysis and Applications, 2023  
-   [https://doi.org/10.1016/j.jmaa.2022.126955](https://doi.org/10.1016/j.jmaa.2022.126955) (with Gy.P. Gehér, J. Pitrik, and D.Virosztek)
+   DOI: [https://doi.org/10.1016/j.jmaa.2022.126955](https://doi.org/10.1016/j.jmaa.2022.126955) (with Gy.P. Gehér, J. Pitrik, and D.Virosztek)
 
 3. Isometric rigidity of Wasserstein tori and spheres  
    Mathematika, 2023  
@@ -72,15 +85,15 @@ Office: III/16
 
 11. A characterisation of isometries with respect to the Lévy-Prokhorov metric  
     Annali della Scuola Normale Superiore di Pisa - Classe di Scienze, 2019  
-    DOI: [10.2422/2036-2145.201702_011](https://doi.org/10.2422/2036-2145.201702_011) (with Gy.P. Gehér)
+    DOI: [https://doi.org/10.2422/2036-2145.201702_011)](https://doi.org/10.2422/2036-2145.201702_011) (with Gy.P. Gehér)
 
 12. The singular part as fixed point  
     The American Mathematical Monthly, 2018  
-    DOI: 10.1080/00029890.2018.1393219
+    DOI: [https://doi.org/10.1080/00029890.2018.1393219](https://doi.org/10.1080/00029890.2018.1393219)
 
 13. A Simple Proof of the Lebesgue Decomposition Theorem  
     The American Mathematical Monthly, Taylor&Francis, 2015  
-    DOI: 10.4169/amer.math.monthly.122.8.793
+    DOI: [https://doi.org/10.4169/amer.math.monthly.122.8.793](https://doi.org/10.4169/amer.math.monthly.122.8.793)
 
 14. A Radon-Nikodym type theorem for forms  
     Positivity, 2013  
@@ -89,6 +102,7 @@ Office: III/16
 15. Ando's theorem for nonnegative forms  
     Positivity, 2012  
     DOI: [https://doi.org/10.1007/s11117-011-0133-9](https://doi.org/10.1007/s11117-011-0133-9)
+<br>
 
 
 ## Selected talks
@@ -140,12 +154,14 @@ Office: III/16
 - 20/09/2023 Isometries of Wasserstein spaces and Lipschitz-free spaces  
   Æsy to define, Hard to analyse: First conference on Lipschitz-free spaces, Centre Diocésain  
   Besançon, France  
+<br>
 
 
 ## Ph.D. Thesis
 
 Decomposition theory of forms, 2016  
 Doctoral School of Mathematics, Eötvös Loránd University  
+<br>
 
 
 ## Memberships
@@ -154,6 +170,7 @@ Doctoral School of Mathematics, Eötvös Loránd University
 - János Bolyai Mathematical Society  
 - European Mathematical Society  
 - American Mathematical Society  
+<br>
 
 
 ## Workshop and seminar organization
@@ -161,10 +178,10 @@ Doctoral School of Mathematics, Eötvös Loránd University
 - Thematic semester at Erdős Cender (2022 Fall, Sept-Dec): Optimal Transport on Quantum Structures  
 (with J. Maas, S. Rademacher and D. Virosztek)  
 
-    -- School: Sept 19-23, 2022 [poster]  
+    -- School: Sept 19-23, 2022  
     Lecturers: E.A. Carlen (Rutgers University), A. Figalli (ETH Zurich), F. Golse (CMLS Ecole Polytechnique), D. Trevisan (University of Pisa)  
 
-    -- Workshop: Sept 26-30, 2022 [poster]  
+    -- Workshop: Sept 26-30, 2022  
     Invited speakers: P. Antonini (Università del Salento), Z. Balogh (University of Bern), Y. Brenier (Universite Paris-Saclay), A. Capel (Universität         Tübingen), E. Caglioti (Sapienza University of Rome), Li Chen (University of Mannheim, Germany), N. Datta (University of Cambridge), G. De Palma            (University of Bologna), M. Eckstein (Jagiellonian University), M. Iacobelli (ETH Zurich), L. Lafleche (UT Austin), L. Portinale (Hausdorff Center for      Mathematics Bonn), C. Rouzé (TU Munich), D. Shlyakhtenko (UCLA), M. Wirth (IST Austria) H. Zhang (IST Austria), K. Zyczkowski (Polish Academy of            Sciences)  
 
     -- Focus event on Modified Logarithmic Sobolev Inequalities for Quantum Markov Semigroups: November 21-25, 2022  
