@@ -1,3 +1,7 @@
+<img src="https://www.renyi.hu/%7Etitkos/3c.jpg" alt="TT" width="500">
+
+
+
 # Mailing address
 
 Alfréd Rényi Institute of Mathematics  
@@ -21,8 +25,8 @@ Office: III/16
 
 ## Editorial work
 
-- 2019- Editor of Periodica Mathematica Hungarica  
-- 2020- Editor of Érintő (Electronic Journal of the János Bolyai Mathematical Society)  
+- Editor of Periodica Mathematica Hungarica  
+- Editor of Érintő (Electronic Journal of the János Bolyai Mathematical Society)  
 
 ## Selected Papers
 
@@ -68,7 +72,7 @@ Office: III/16
 
 11. A characterisation of isometries with respect to the Lévy-Prokhorov metric  
     Annali della Scuola Normale Superiore di Pisa - Classe di Scienze, 2019  
-    DOI: 10.2422/2036-2145.201702_011 (with Gy.P. Gehér)
+    DOI: [10.2422/2036-2145.201702_011](https://doi.org/10.2422/2036-2145.201702_011) (with Gy.P. Gehér)
 
 12. The singular part as fixed point  
     The American Mathematical Monthly, 2018  
