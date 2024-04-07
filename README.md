@@ -3,7 +3,6 @@
 # Tamás TITKOS
 <br>
 
-
 ## Contact information
 
 Corvinus University of Budapest, Institute of Mathematics   
